@@ -96,9 +96,9 @@ e entrará nela, por exemplo: `git checkout -b novoBotao`
 
 * Para fazer o dowload de um repositório remoto, seu ou de outro usuário, há duas opções:
 * 1ª opção: clicar no botão `Code` que se encontra no própio Github e em seguida no botão 
-`Dowload ZIP`, conforme a imagem abaixo
+`Dowload ZIP`, conforme a imagem abaixo  
 
-<img src=" ./img/imgClone.PNG">
+  <img src="img/imgClone.PNG">
 
 * 2ª opção: utilizando o mesmo link presente na imagem acima, abra o terminal e digite `git clone <link copiado>`
 **Observação**: é importante que ao clonar um repositório de sua própia conta do Github,
